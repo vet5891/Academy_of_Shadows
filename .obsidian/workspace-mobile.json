@@ -39,14 +39,17 @@
             "id": "4de49d340ebd2513",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "mir/geografiya/uschelye_gorla_i_naves.md",
-                "mode": "source",
-                "source": false
+                "file": "test.canvas",
+                "viewState": {
+                  "x": -82,
+                  "y": 816.5,
+                  "zoom": -0.17703188793657254
+                }
               },
-              "icon": "lucide-file",
-              "title": "uschelye_gorla_i_naves"
+              "icon": "lucide-layout-dashboard",
+              "title": "test"
             }
           }
         ],
@@ -146,7 +149,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "mir/geografiya/uschelye_gorla_i_naves.md",
+            "file": "test.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -204,8 +207,11 @@
   },
   "active": "4de49d340ebd2513",
   "lastOpenFiles": [
-    "mir/geografiya/pereval_gorla.md",
+    "mysli_vslukh.md",
+    "Для ИИ.md",
+    "INDEX.md",
     "mir/geografiya/uschelye_gorla_i_naves.md",
+    "mir/geografiya/pereval_gorla.md",
     "mir/geografiya/goroda/montevyo.md",
     "mir/geografiya/goroda/trikastella.md",
     "mir/geografiya/posyolki/byessa.md",
@@ -219,7 +225,6 @@
     "mir/akademiya/pomeshcheniya/schyotnaya.md",
     "mir/akademiya/pomeshcheniya/pokoi_mastera.md",
     "mir/akademiya/zdaniye.md",
-    "mysli_vslukh.md",
     "mir/filosofiya/Zaglushka.md",
     "mir/filosofiya",
     "mir/kultura/traditsii.md",
@@ -235,9 +240,7 @@
     "mir/akademiya/pomeshcheniya",
     "mir/akademiya",
     "mir/geografiya/goroda",
-    "personazhi/vospitannitsy/dikaya.md",
     "mir/geografiya/posyolki",
-    "mir/geografiya/akademiya.md",
     "mir/geografiya",
     "mir",
     "test.canvas"

@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"a85048317a0b5163","x":-267,"y":478,"width":250,"height":60,"type":"text","text":"Вторая карточка\n"},
-		{"id":"e41c51ed0df737fb","x":-240,"y":760,"width":250,"height":60,"type":"text","text":"Первая карточка"},
-		{"id":"0740cc267c9742d2","x":-147,"y":1095,"width":250,"height":60,"type":"text","text":"Третья карточка"}
+		{"id":"a85048317a0b5163","type":"text","text":"Вторая карточка\n","x":-267,"y":478,"width":250,"height":60},
+		{"id":"e41c51ed0df737fb","type":"text","text":"Академия","x":-240,"y":760,"width":120,"height":80},
+		{"id":"0740cc267c9742d2","type":"text","text":"Третья карточка","x":-147,"y":1095,"width":250,"height":60}
 	],
 	"edges":[]
 }
