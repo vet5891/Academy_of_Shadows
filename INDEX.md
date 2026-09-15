@@ -10,20 +10,20 @@
 
 ## ПЕРСОНАЖИ
 - [dikaya.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/personazhi/vospitannitsy/dikaya.md) — Дикая (опубликована)
-- остальные карты — по мере переноса (personal/, vospitannitsy/, vneshnie/)
+- остальные карты — по мере переноса
 
-## РУКОПИСЬ (в публикации)
+## РУКОПИСЬ
 - [glava_01_partiya.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/rukopis/glava_01_partiya.md)
 - [glava_02_osmotr.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/rukopis/glava_02_osmotr.md)
 - [glava_03_pochti_11_chasov.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/rukopis/glava_03_pochti_11_chasov.md)
 - [glava_04_rys.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/rukopis/glava_04_rys.md)
 
 ## СЮЖЕТ
-- syuzhet/syuzhet_rabochiy/ — план глав, крючки, порядок раскрытий (в публикации)
-- syuzhet/fabula/ — хронология событий, таймлайны арок (в публикации)
+- syuzhet/syuzhet_rabochiy/ — план глав, крючки
+- syuzhet/fabula/ — хронология событий
 
-## РЕФЫ (в публикации)
+## РЕФЫ
 - [ref_karcer_fizio.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/refy/ref_karcer_fizio.md)
 
 ## СЛУЖЕБНОЕ
-- [mysli_vslukh.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mysli_vslukh.md) — черновик мыслей игрока
+- [mysli_vslukh.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mysli_vslukh.md)
