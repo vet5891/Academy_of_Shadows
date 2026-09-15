@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "academy_state.txt.md",
+                "file": "INDEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "academy_state.txt"
+              "title": "INDEX"
+            }
+          },
+          {
+            "id": "d5248c111eb5bf96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/Воспитанницы/Дикая.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дикая"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,11 +188,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "9668a9ce46f7c9c0",
+  "active": "d5248c111eb5bf96",
   "lastOpenFiles": [
-    "Без названия 1",
     "INDEX.md",
+    "Персонажи/Воспитанницы/Дикая.md",
+    "Персонажи/Внешние",
+    "Персонажи/Воспитанницы",
+    "Персонажи/Персонал",
+    "МЫСЛИ ВСЛУХ.md",
+    "Сюжет/Сюжет рабочий",
+    "Сюжет/Фабула",
+    "Рефы",
+    "Сюжет",
+    "Рукопись",
+    "Система",
     "academy_state.txt.md",
-    "Без названия"
+    "Без названия 1/Без названия"
   ]
 }
