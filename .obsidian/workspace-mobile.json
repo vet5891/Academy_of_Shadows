@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX.md",
+                "file": "academy_state.txt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INDEX"
+              "title": "academy_state.txt"
             }
           }
         ]
@@ -173,6 +173,11 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "d00e7464cb7e7d06",
-  "lastOpenFiles": []
+  "active": "9668a9ce46f7c9c0",
+  "lastOpenFiles": [
+    "Без названия 1",
+    "INDEX.md",
+    "academy_state.txt.md",
+    "Без названия"
+  ]
 }
