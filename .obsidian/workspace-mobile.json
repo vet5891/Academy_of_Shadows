@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysli_vslukh.md",
+                "file": "mir/geografiya/uschelye_gorla_i_naves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mysli_vslukh"
+              "title": "uschelye_gorla_i_naves"
             }
           }
         ],
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "mysli_vslukh.md",
+            "file": "mir/geografiya/uschelye_gorla_i_naves.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -204,8 +204,23 @@
   },
   "active": "4de49d340ebd2513",
   "lastOpenFiles": [
-    "mir/filosofiya/Zaglushka.md",
+    "mir/geografiya/pereval_gorla.md",
+    "mir/geografiya/uschelye_gorla_i_naves.md",
+    "mir/geografiya/goroda/montevyo.md",
+    "mir/geografiya/goroda/trikastella.md",
+    "mir/geografiya/posyolki/byessa.md",
+    "mir/geografiya/posyolki/campo.md",
+    "mir/geografiya/dolina_tichcha.md",
+    "mir/akademiya/pomeshcheniya/vnutrenniy_dvor.md",
+    "mir/akademiya/pomeshcheniya/ritualnaya.md",
+    "mir/akademiya/pomeshcheniya/glubokiy_karcer.md",
+    "mir/akademiya/pomeshcheniya/odinochnye_kletki.md",
+    "mir/akademiya/pomeshcheniya/lazaret.md",
+    "mir/akademiya/pomeshcheniya/schyotnaya.md",
+    "mir/akademiya/pomeshcheniya/pokoi_mastera.md",
+    "mir/akademiya/zdaniye.md",
     "mysli_vslukh.md",
+    "mir/filosofiya/Zaglushka.md",
     "mir/filosofiya",
     "mir/kultura/traditsii.md",
     "mir/kultura/yazyki.md",
@@ -216,30 +231,15 @@
     "mir/politika/gertsogstvo.md",
     "mir/politika/trikastella.md",
     "mir/politika",
-    "mir/akademiya/pomeshcheniya/ritualnaya.md",
-    "mir/akademiya/pomeshcheniya/lazaret.md",
-    "mir/akademiya/pomeshcheniya/vnutrenniy_dvor.md",
     "mir/akademiya/pomeshcheniya/karcer.md",
-    "mir/akademiya/pomeshcheniya/pokoi_mastera.md",
     "mir/akademiya/pomeshcheniya",
-    "mir/akademiya/zdaniye.md",
     "mir/akademiya",
-    "mir/geografiya/goroda/montevyo.md",
-    "mir/geografiya/goroda/trikastella.md",
     "mir/geografiya/goroda",
-    "mir/geografiya/posyolki/byessa.md",
-    "mir/geografiya/posyolki/campo.md",
     "personazhi/vospitannitsy/dikaya.md",
     "mir/geografiya/posyolki",
-    "mir/geografiya/dolina_tichcha.md",
     "mir/geografiya/akademiya.md",
     "mir/geografiya",
     "mir",
-    "test.canvas",
-    "Lekcii.md",
-    "INDEX.md",
-    "sistema/lor_v5.md",
-    "academy_state.md",
-    "sistema/INSTRUCTION_PROJECT_v3.md"
+    "test.canvas"
   ]
 }
