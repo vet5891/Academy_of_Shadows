@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "test.canvas",
+            "file": "mysli_vslukh.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -204,9 +204,10 @@
   },
   "active": "4de49d340ebd2513",
   "lastOpenFiles": [
-    "Для ИИ.md",
-    "syuzhet/fabula/fabula_yadro.md",
+    "academy_state.md",
     "mysli_vslukh.md",
+    "syuzhet/fabula/fabula_yadro.md",
+    "Для ИИ.md",
     "INDEX.md",
     "slug.md",
     "Идея цикла.md",
@@ -232,7 +233,6 @@
     "mir/kultura/traditsii.md",
     "mir/kultura/yazyki.md",
     "mir/kultura",
-    "mir/religiya/khram.md",
     "mir/religiya",
     "mir/politika",
     "mir/akademiya/pomeshcheniya",
