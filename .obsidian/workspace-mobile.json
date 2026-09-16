@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Для ИИ.md",
+                "file": "INDEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Для ИИ"
+              "title": "INDEX"
             }
           }
         ],
@@ -204,10 +204,11 @@
   },
   "active": "4de49d340ebd2513",
   "lastOpenFiles": [
+    "syuzhet/fabula/fabula_yadro.md",
     "INDEX.md",
-    "slug.md",
-    "Для ИИ.md",
     "mysli_vslukh.md",
+    "Для ИИ.md",
+    "slug.md",
     "Идея цикла.md",
     "Идеи.md",
     "test.canvas",
@@ -232,7 +233,6 @@
     "mir/kultura/yazyki.md",
     "mir/kultura",
     "mir/religiya/khram.md",
-    "mir/religiya/boginya_boli.md",
     "mir/religiya",
     "mir/politika",
     "mir/akademiya/pomeshcheniya",
