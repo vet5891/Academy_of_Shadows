@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Идеи.md",
+                "file": "Для ИИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Идеи"
+              "title": "Для ИИ"
             }
           }
         ],
@@ -204,10 +204,11 @@
   },
   "active": "4de49d340ebd2513",
   "lastOpenFiles": [
-    "Для ИИ.md",
-    "Идеи.md",
-    "test.canvas",
     "mysli_vslukh.md",
+    "Идея цикла.md",
+    "Идеи.md",
+    "Для ИИ.md",
+    "test.canvas",
     "INDEX.md",
     "mir/geografiya/uschelye_gorla_i_naves.md",
     "mir/geografiya/pereval_gorla.md",
@@ -233,7 +234,6 @@
     "mir/religiya/boginya_boli.md",
     "mir/religiya",
     "mir/politika/gertsogstvo.md",
-    "mir/politika/trikastella.md",
     "mir/politika",
     "mir/akademiya/pomeshcheniya",
     "mir/akademiya",
