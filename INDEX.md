@@ -49,6 +49,7 @@
 
 ## СЮЖЕТ
 - syuzhet/fabula/ — ядро и хронология (в разработке)
+- Ядро фабулы — [https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/syuzhet/fabula/fabula_yadro.md]()
 - syuzhet/syuzhet_rabochiy/ — план глав, крючки
 
 ## РЕФЫ
