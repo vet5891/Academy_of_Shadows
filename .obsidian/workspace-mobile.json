@@ -39,17 +39,14 @@
             "id": "4de49d340ebd2513",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "test.canvas",
-                "viewState": {
-                  "x": -82,
-                  "y": 816.5,
-                  "zoom": -0.17703188793657254
-                }
+                "file": "Идеи.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "test"
+              "icon": "lucide-file",
+              "title": "Идеи"
             }
           }
         ],
@@ -207,8 +204,10 @@
   },
   "active": "4de49d340ebd2513",
   "lastOpenFiles": [
-    "mysli_vslukh.md",
     "Для ИИ.md",
+    "Идеи.md",
+    "test.canvas",
+    "mysli_vslukh.md",
     "INDEX.md",
     "mir/geografiya/uschelye_gorla_i_naves.md",
     "mir/geografiya/pereval_gorla.md",
@@ -236,13 +235,11 @@
     "mir/politika/gertsogstvo.md",
     "mir/politika/trikastella.md",
     "mir/politika",
-    "mir/akademiya/pomeshcheniya/karcer.md",
     "mir/akademiya/pomeshcheniya",
     "mir/akademiya",
     "mir/geografiya/goroda",
     "mir/geografiya/posyolki",
     "mir/geografiya",
-    "mir",
-    "test.canvas"
+    "mir"
   ]
 }
