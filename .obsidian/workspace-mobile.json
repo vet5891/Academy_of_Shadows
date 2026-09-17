@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inquisitor/chat_s_ii.md",
+                "file": "Inquisitor/00_system/rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chat_s_ii"
+              "title": "rules"
             }
           },
           {
@@ -145,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inquisitor/chat_s_ii.md",
+            "file": "Inquisitor/00_system/rules.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,8 +203,11 @@
   },
   "active": "d00e7464cb7e7d06",
   "lastOpenFiles": [
-    "Inquisitor/geografiya/open_questions.md",
+    "Inquisitor/00_system/instruction.md",
+    "Inquisitor/00_system/rules.md",
     "Inquisitor/chat_s_ii.md",
+    "Inquisitor/00_system",
+    "Inquisitor/geografiya/open_questions.md",
     "Inquisitor/geografiya/05_yurisdikciya.md",
     "Inquisitor/geografiya/04_dorogi_i_svyazi.md",
     "Inquisitor/geografiya/01_trikastella.md",
@@ -229,16 +232,13 @@
     "Для ИИ.md",
     "Идея цикла.md",
     "slug.md",
-    "mir/geografiya/uschelye_gorla_i_naves.md",
     "Без названия.base",
-    "INDEX.md",
     "Inquisitor",
     "mir/filosofiya",
     "mir/kultura",
     "mir/religiya",
     "mir/politika",
     "mir/akademiya/pomeshcheniya",
-    "mir/akademiya",
-    "mir/geografiya/goroda"
+    "mir/akademiya"
   ]
 }
