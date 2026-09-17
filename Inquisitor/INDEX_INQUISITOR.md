@@ -30,6 +30,9 @@ https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/goroda/montevyo.md
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/posyolki/campo.md
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/posyolki/byessa.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/02_dolina_tichcha.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/03_montevelo.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/open_questions.md
 ```
 
 ### Культура
