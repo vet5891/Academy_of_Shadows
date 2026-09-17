@@ -11,17 +11,14 @@
             "id": "d00e7464cb7e7d06",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "test.canvas",
-                "viewState": {
-                  "x": -82,
-                  "y": 1138.4276041666667,
-                  "zoom": -0.9555530466037755
-                }
+                "file": "structure.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "test"
+              "icon": "lucide-file",
+              "title": "structure"
             }
           },
           {
@@ -148,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Без названия.base",
+            "file": "structure.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -206,7 +203,12 @@
   },
   "active": "d00e7464cb7e7d06",
   "lastOpenFiles": [
-    "Без названия.md",
+    "test.canvas",
+    "structure.md",
+    "mir/mir.md",
+    "Для ИИ.md",
+    "Идея цикла.md",
+    "slug.md",
     "mir/geografiya/uschelye_gorla_i_naves.md",
     "Без названия.base",
     "INDEX.md",
@@ -215,16 +217,12 @@
     "Inquisitor/Zaglushka.md",
     "mir/religiya/mir_religiya.md",
     "Inquisitor",
-    "Для ИИ.md",
     "mir/kultura/mir_zakony.md",
     "mir/kultura/mir_yazyki.md",
     "mysli_vslukh.md",
     "academy_state.md",
     "syuzhet/fabula/fabula_yadro.md",
-    "slug.md",
-    "Идея цикла.md",
     "Идеи.md",
-    "test.canvas",
     "mir/geografiya/pereval_gorla.md",
     "mir/geografiya/goroda/montevyo.md",
     "mir/geografiya/goroda/trikastella.md",
@@ -233,8 +231,6 @@
     "mir/geografiya/dolina_tichcha.md",
     "mir/akademiya/pomeshcheniya/ritualnaya.md",
     "mir/akademiya/pomeshcheniya/glubokiy_karcer.md",
-    "mir/akademiya/pomeshcheniya/odinochnye_kletki.md",
-    "mir/akademiya/pomeshcheniya/lazaret.md",
     "mir/filosofiya",
     "mir/kultura",
     "mir/religiya",
