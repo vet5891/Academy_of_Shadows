@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Для ИИ.md",
+                "file": "mir/religiya/mir_religiya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Для ИИ"
+              "title": "mir_religiya"
             }
           }
         ],
@@ -204,8 +204,8 @@
   },
   "active": "4de49d340ebd2513",
   "lastOpenFiles": [
-    "mir/kultura/mir_zakony.md",
     "Для ИИ.md",
+    "mir/kultura/mir_zakony.md",
     "mir/kultura/mir_yazyki.md",
     "mir/religiya/mir_religiya.md",
     "mysli_vslukh.md",
