@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mir/religiya/mir_religiya.md",
+                "file": "Inquisitor/Zaglushka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mir_religiya"
+              "title": "Zaglushka"
             }
           }
         ],
@@ -204,10 +204,12 @@
   },
   "active": "4de49d340ebd2513",
   "lastOpenFiles": [
+    "mir/religiya/mir_religiya.md",
+    "Inquisitor/Zaglushka.md",
+    "Inquisitor",
     "Для ИИ.md",
     "mir/kultura/mir_zakony.md",
     "mir/kultura/mir_yazyki.md",
-    "mir/religiya/mir_religiya.md",
     "mysli_vslukh.md",
     "academy_state.md",
     "syuzhet/fabula/fabula_yadro.md",
@@ -230,7 +232,6 @@
     "mir/akademiya/pomeshcheniya/lazaret.md",
     "mir/akademiya/pomeshcheniya/schyotnaya.md",
     "mir/akademiya/pomeshcheniya/pokoi_mastera.md",
-    "mir/akademiya/zdaniye.md",
     "mir/filosofiya",
     "mir/kultura",
     "mir/religiya",
@@ -239,7 +240,6 @@
     "mir/akademiya",
     "mir/geografiya/goroda",
     "mir/geografiya/posyolki",
-    "mir/geografiya",
-    "mir"
+    "mir/geografiya"
   ]
 }
