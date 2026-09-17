@@ -145,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "structure.md",
+            "file": "Идеи.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,8 +203,9 @@
   },
   "active": "d00e7464cb7e7d06",
   "lastOpenFiles": [
-    "test.canvas",
+    "Идеи.md",
     "structure.md",
+    "test.canvas",
     "mir/mir.md",
     "Для ИИ.md",
     "Идея цикла.md",
@@ -222,7 +223,6 @@
     "mysli_vslukh.md",
     "academy_state.md",
     "syuzhet/fabula/fabula_yadro.md",
-    "Идеи.md",
     "mir/geografiya/pereval_gorla.md",
     "mir/geografiya/goroda/montevyo.md",
     "mir/geografiya/goroda/trikastella.md",
