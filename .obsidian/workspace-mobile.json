@@ -11,14 +11,17 @@
             "id": "d00e7464cb7e7d06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "INDEX.md",
-                "mode": "source",
-                "source": false
+                "file": "test.canvas",
+                "viewState": {
+                  "x": -82,
+                  "y": 1138.4276041666667,
+                  "zoom": -0.9555530466037755
+                }
               },
-              "icon": "lucide-file",
-              "title": "INDEX"
+              "icon": "lucide-layout-dashboard",
+              "title": "test"
             }
           },
           {
@@ -49,8 +52,7 @@
               "title": "chat_s_ii"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +82,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "[\"связи\"]",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -146,7 +148,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "mir/religiya/mir_religiya.md",
+            "file": "Без названия.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -202,10 +204,15 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4de49d340ebd2513",
+  "active": "d00e7464cb7e7d06",
   "lastOpenFiles": [
-    "Inquisitor/Zaglushka.md",
+    "Без названия.md",
+    "mir/geografiya/uschelye_gorla_i_naves.md",
+    "Без названия.base",
+    "INDEX.md",
+    "mir/akademiya/pomeshcheniya/vnutrenniy_dvor.md",
     "Inquisitor/chat_s_ii.md",
+    "Inquisitor/Zaglushka.md",
     "mir/religiya/mir_religiya.md",
     "Inquisitor",
     "Для ИИ.md",
@@ -214,24 +221,20 @@
     "mysli_vslukh.md",
     "academy_state.md",
     "syuzhet/fabula/fabula_yadro.md",
-    "INDEX.md",
     "slug.md",
     "Идея цикла.md",
     "Идеи.md",
     "test.canvas",
-    "mir/geografiya/uschelye_gorla_i_naves.md",
     "mir/geografiya/pereval_gorla.md",
     "mir/geografiya/goroda/montevyo.md",
     "mir/geografiya/goroda/trikastella.md",
     "mir/geografiya/posyolki/byessa.md",
     "mir/geografiya/posyolki/campo.md",
     "mir/geografiya/dolina_tichcha.md",
-    "mir/akademiya/pomeshcheniya/vnutrenniy_dvor.md",
     "mir/akademiya/pomeshcheniya/ritualnaya.md",
     "mir/akademiya/pomeshcheniya/glubokiy_karcer.md",
     "mir/akademiya/pomeshcheniya/odinochnye_kletki.md",
     "mir/akademiya/pomeshcheniya/lazaret.md",
-    "mir/akademiya/pomeshcheniya/schyotnaya.md",
     "mir/filosofiya",
     "mir/kultura",
     "mir/religiya",
@@ -239,7 +242,6 @@
     "mir/akademiya/pomeshcheniya",
     "mir/akademiya",
     "mir/geografiya/goroda",
-    "mir/geografiya/posyolki",
-    "mir/geografiya"
+    "mir/geografiya/posyolki"
   ]
 }
