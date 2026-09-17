@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inquisitor/INDEX_INQUISITOR.md",
+                "file": "Inquisitor/geografiya/open_questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INDEX_INQUISITOR"
+              "title": "open_questions"
             }
           },
           {
@@ -203,8 +203,12 @@
   },
   "active": "d00e7464cb7e7d06",
   "lastOpenFiles": [
-    "mir/geografiya/dolina_tichcha.md",
+    "Inquisitor/geografiya/01_trikastella.md",
+    "Inquisitor/geografiya/open_questions.md",
+    "Inquisitor/geografiya/00_obzor.md",
     "Inquisitor/INDEX_INQUISITOR.md",
+    "Inquisitor/geografiya",
+    "mir/geografiya/dolina_tichcha.md",
     "mir/geografiya/akademiya.md",
     "structure.md",
     "Идеи.md",
@@ -229,16 +233,12 @@
     "mir/geografiya/pereval_gorla.md",
     "mir/geografiya/goroda/montevyo.md",
     "mir/geografiya/goroda/trikastella.md",
-    "mir/geografiya/posyolki/byessa.md",
-    "mir/geografiya/posyolki/campo.md",
-    "mir/akademiya/pomeshcheniya/ritualnaya.md",
     "mir/filosofiya",
     "mir/kultura",
     "mir/religiya",
     "mir/politika",
     "mir/akademiya/pomeshcheniya",
     "mir/akademiya",
-    "mir/geografiya/goroda",
-    "mir/geografiya/posyolki"
+    "mir/geografiya/goroda"
   ]
 }
