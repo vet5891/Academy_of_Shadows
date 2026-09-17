@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inquisitor/geografiya/open_questions.md",
+                "file": "mir/politika/gertsogstvo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "open_questions"
+              "title": "gertsogstvo"
             }
           },
           {
@@ -203,8 +203,11 @@
   },
   "active": "d00e7464cb7e7d06",
   "lastOpenFiles": [
-    "Inquisitor/geografiya/01_trikastella.md",
+    "mir/politika/trikastella.md",
+    "Inquisitor/geografiya/03_montevelo.md",
+    "Inquisitor/geografiya/02_dolina_tichcha.md",
     "Inquisitor/geografiya/open_questions.md",
+    "Inquisitor/geografiya/01_trikastella.md",
     "Inquisitor/geografiya/00_obzor.md",
     "Inquisitor/INDEX_INQUISITOR.md",
     "Inquisitor/geografiya",
@@ -230,9 +233,6 @@
     "mysli_vslukh.md",
     "academy_state.md",
     "syuzhet/fabula/fabula_yadro.md",
-    "mir/geografiya/pereval_gorla.md",
-    "mir/geografiya/goroda/montevyo.md",
-    "mir/geografiya/goroda/trikastella.md",
     "mir/filosofiya",
     "mir/kultura",
     "mir/religiya",
