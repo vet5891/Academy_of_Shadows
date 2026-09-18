@@ -1,65 +1,93 @@
 # INDEX — АКАДЕМИЯ ТЕНЕЙ
-Репозиторий: https://github.com/vet5891/Academy_of_Shadows
-Синк: Obsidian (телефон) → GitSync → GitHub. Система читает raw-ссылки.
-Конвенция имён v1.1: русские слова транслитом; вики-ссылки [[slug|Имя]].
+*Репозиторий: https://github.com/vet5891/Academy_of_Shadows*
+*Синк: Obsidian (телефон) → GitSync → GitHub. Система читает raw-ссылки.*
+*Конвенция имён v1.1: новые файлы/папки — по-русски; где нужна латиница — транслит. Вики-ссылки `[[slug|Имя]]`.*
 
 ## СИСТЕМА
-- [academy_state.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/academy_state.md) — состояние: источник правды
-- [pravila_v3.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/sistema/pravila_v3.md)
-- [lor_v5.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/sistema/lor_v5.md)
-- [INSTRUCTION_PROJECT_v3.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/sistema/INSTRUCTION_PROJECT_v3.md)
-
-## ПЕРСОНАЖИ
-- [dikaya.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/personazhi/vospitannitsy/dikaya.md) — эталон карточки
-- personal/, vneshnie/ — по мере переноса
-
-## МИР — ГЕОГРАФИЯ
-- [akademiya.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/akademiya.md) — Академия как точка карты
-- [dolina_tichcha.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/dolina_tichcha.md)
-- [campo.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/posyolki/campo.md)
-- [byessa.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/posyolki/byessa.md)
-- [trikastella.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/goroda/trikastella.md)
-- [montevyo.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/goroda/montevyo.md)
-- [pereval_gorla.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/pereval_gorla.md)
-- [uschelye_gorla_i_naves.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/uschelye_gorla_i_naves.md)
-
-## МИР — АКАДЕМИЯ
-- [zdaniye.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/zdaniye.md)
-- [pokoi_mastera.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/pomeshcheniya/pokoi_mastera.md)
-- [schyotnaya.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/pomeshcheniya/schyotnaya.md)
-- [lazaret.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/pomeshcheniya/lazaret.md)
-- [odinochnye_kletki.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/pomeshcheniya/odinochnye_kletki.md)
-- [karcer.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/pomeshcheniya/karcer.md)
-- [glubokiy_karcer.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/pomeshcheniya/glubokiy_karcer.md)
-- [ritualnaya.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/pomeshcheniya/ritualnaya.md)
-- [vnutrenniy_dvor.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/pomeshcheniya/vnutrenniy_dvor.md)
-
-## МИР — ОБЩЕСТВО (заглушки)
-- [trikastella_politika.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/politika/trikastella.md) — совет купцов, дом Альдобранди
-- [gertsogstvo.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/politika/gertsogstvo.md)
-- [boginya_boli.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/religiya/boginya_boli.md)
-- [khram.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/religiya/khram.md)
-- [yazyki.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/yazyki.md)
-- [traditsii.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/traditsii.md)
-- [Zaglushka.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/filosofiya/Zaglushka.md) — философия (папка-заглушка)
-
-## РУКОПИСЬ
-- rukopis/book/ — компиляция книги
-- главы 1-4 — в публикации (glava_01_partiya.md … glava_04_rys.md)
+- [academy_state.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/academy_state.md) — **источник правды** (день 1, 13:55)
+- [pravila_v3.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/pravila_v3.md)
+- [lor_v5.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/lor_v5.md)
+- [INSTRUCTION_PROJECT_v3.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/INSTRUCTION_PROJECT_v3.md)
 
 ## СЮЖЕТ
-- syuzhet/fabula/ — ядро и хронология (в разработке)
-- Ядро фабулы — [https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/syuzhet/fabula/fabula_yadro.md]()
-- syuzhet/syuzhet_rabochiy/ — план глав, крючки
+### Фабула
+- [Ядро фабулы](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/syuzhet/fabula/fabula_yadro.md) — `syuzhet/fabula/fabula_yadro.md`
+- `syuzhet/fabula/fabula_hronika.md` — *в разработке*
+- [Парковка вопросов](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/syuzhet/voprosy_parkovka.md) — отложенные вопросы по Миру и фабуле
+### Рабочие
+- `syuzhet/syuzhet_rabochiy/` — план глав, крючки
 
-## РЕФЫ
-- ref_karcer_fizio.md — в публикации (файл ещё не создан; 404 до публикации)
+## МИР — ГЕОГРАФИЯ
+- `mir/geografiya/akademiya.md` — Академия как точка карты
+- `mir/geografiya/dolina_tichcha.md`
+- `mir/geografiya/campo.md`
+- `mir/geografiya/byessa.md`
+- `mir/geografiya/trikastella.md`
+- `mir/geografiya/montevyo.md`
+- `mir/geografiya/pereval_gorla.md`
+- `mir/geografiya/uschelye_gorla_i_naves.md`
+
+## МИР — АКАДЕМИЯ (локации)
+- `mir/akademiya/zdaniye.md`
+- `mir/akademiya/pokoi_mastera.md`
+- `mir/akademiya/schyotnaya.md`
+- `mir/akademiya/lazaret.md`
+- `mir/akademiya/odinochnye_kletki.md`
+- `mir/akademiya/karcer.md`
+- `mir/akademiya/glubokiy_karcer.md`
+- `mir/akademiya/ritualnaya.md`
+- `mir/akademiya/vnutrenniy_dvor.md`
+
+## МИР — КУЛЬТУРА И ОБЩЕСТВО
+### Религия
+- [Религия: Культ Матери Боли](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/religiya/mir_religiya.md) — `mir/religiya/mir_religiya.md` (v4)
+### Культура
+- [Сословия, обычаи, речь (В8)](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/mir_sosloviya.md) — пересобранный блок (v2)
+- [Языки и речь](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/mir_yazyki.md) (v4)
+- [Законы и правосудие](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/mir_zakony.md) (v4)
+- [Словарь Высокого языка](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/slovar_vysokiy.md) — 40 фраз + правило инверсии
+- [Словарь ругани и проклятий Долинного](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/slovar_rugani.md) — по 10 на сословие
+- [Имена, фамилии, клички](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/mir_imena.md) — справочник по сословиям
+- [Примеры диалогов](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/mir_dialogi.md) — вертикаль/горизонталь
+- [Календарь праздников и событий](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/mir_kalendar.md) — религиозные + гражданские + дневник Академии
+- [Символы, печати, знаки](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/kultura/mir_simvoly.md) — свод всех визуальных маркеров Мира
+### Политика и общество (заглушки)
+- `mir/obschestvo/trikastella_politika.md` — совет купцов, дом Альдобранди
+- `mir/obschestvo/gertsogstvo.md`
+- `mir/obschestvo/boginya_boli.md` — *устарел; см. `mir_religiya.md`*
+- `mir/obschestvo/khram.md` — *устарел; см. `mir_religiya.md`*
+- `mir/obschestvo/yazyki.md` — *устарел; см. `mir_yazyki.md`*
+- `mir/obschestvo/traditsii.md` — *устарел; см. `mir_sosloviya.md`*
+- `mir/obschestvo/Zaglushka/` — философия (папка-заглушка)
+
+## ПЕРСОНАЖИ
+- `personazhi/vospitannitsy/dikaya.md` — эталон карточки
+- `personazhi/personal/` — персонал Академии
+- `personazhi/vneshnie/` — внешние NPC
+
+## РУКОПИСЬ
+- `rukopis/book/` — компиляция книги
+- `rukopis/glavy/` — главы 1-4 в публикации:
+  - `glava_01_partiya.md`
+  - `glava_02_...`
+  - `glava_03_...`
+  - `glava_04_rys.md`
+
+## ОТДЕЛЬНЫЕ ПОДПРОЕКТЫ
+### Инквизитор (`Inquisitor/`)
+Мини-мир: взгляд со стороны трибунала Трикастеллы. Отдельная директория со своим INDEX, состоянием, лором, географией, сюжетом, персонажами.
+- [INDEX Инквизитора](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/INDEX_INQUISITOR.md)
+- [Чат с ИИ](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/chat_s_ii.md)
+- Директории: `00_system/`, `10_state/`, `20_plots/`, `30_manuscript/`, `40_characters/`, `geografiya/`
 
 ## РАБОЧИЕ ФАЙЛЫ АВТОРА
-- [mysli_vslukh.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mysli_vslukh.md)
-- [Lekcii.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Lekcii.md)
-- [Idei.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Idei.md)
-- [slug.md](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/slug.md)
-- ideya_tsikla.md — после переименования (сейчас «Ideya tsikla» с пробелом)
-- dlya_ii.md — после переименования (сейчас «Для ИИ» кириллицей)
-- test.canvas — авторская доска; Система напрямую не читает
+- `mysli_vslukh.md` — мысли вслух, заметки по фабуле и Миру
+- `Lekcii.md`
+- `Idei.md`
+- `slug.md`
+- `Ideya tsikla.md` (будет переименован в `ideya_tsikla.md`)
+- `dlya_ii.md` (будет переименован из «Для ИИ»)
+- `test.canvas` — авторская доска; Система напрямую не читает
+
+## РЕФЫ
+- `ref_karcer_fizio.md` — *в публикации (файл ещё не создан; 404 до публикации)*
