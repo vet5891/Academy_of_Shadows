@@ -21,6 +21,13 @@
     "editor:indent-list",
     "editor:unindent-list",
     "editor:configure-toolbar",
-    "command-palette:open"
-  ]
+    "command-palette:open",
+    "editor:move-caret-right",
+    "editor:move-caret-left"
+  ],
+  "spellcheck": false,
+  "tabSize": 6,
+  "useTab": false,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true
 }

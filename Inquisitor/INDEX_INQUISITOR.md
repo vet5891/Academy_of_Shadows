@@ -1,7 +1,7 @@
 # INDEX_INQUISITOR — рабочие ссылки проекта
 
 > Все ссылки — полные raw-URL. Копировать строку целиком, ничего не добавлять.
-> Схема: https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/ + <путь>
+> Схема: https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/ + <путь> + .md
 > В индекс попадают ТОЛЬКО файлы с ASCII-именами. Кириллица — личные заметки автора, система их не читает.
 
 ---
@@ -30,11 +30,6 @@ https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/goroda/montevyo.md
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/posyolki/campo.md
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/geografiya/posyolki/byessa.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/02_dolina_tichcha.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/03_montevelo.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/open_questions.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/04_dorogi_i_svyazi.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/05_yurisdikciya.md
 ```
 
 ### Культура
@@ -78,45 +73,44 @@ https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/cha
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/INDEX_INQUISITOR.md
 ```
 
+### Система
+```
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/instruction.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/rules.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/lore_local.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/editor_protocol.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/start_here.md
+```
+
+### Состояние
+```
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/10_state/inquisitor_state.md
+```
+
 ### География (локальный блок, центр — Трикастелла)
 ```
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/00_obzor.md
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/01_trikastella.md
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/02_dolina_tichcha.md
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/03_montevelo.md
-```
-> Файлы `04_dorogi_i_svyazi.md` и `05_yurisdikciya.md` создаются позже — после блоков законов, религии, языков.
-
-### Система (создаётся)
-```
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/instruction.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/rules.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/lore_local.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/editor_protocol.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/visual_passport.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/serial_protocol.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/04_dorogi_i_svyazi.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/05_yurisdikciya.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/geografiya/open_questions.md
 ```
 
-### Состояние (создаётся)
+### Сюжет (структура)
 ```
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/10_state/inquisitor_state.md
-```
-
-### Сюжет (создаётся)
-```
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/20_plots/case_001/00_fabula.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/20_plots/case_001/01_synopsis.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/20_plots/case_001/02_chapters.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/20_plots/README.md
 ```
 
-### Персонажи (создаётся)
+### Готовый текст (структура)
 ```
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/40_characters/inquisitor.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/30_manuscript/README.md
 ```
 
-### Визуал (создаётся)
+### Персонажи
 ```
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/60_visual_refs/passport_00.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/40_characters/README.md
 ```
 
 ---
