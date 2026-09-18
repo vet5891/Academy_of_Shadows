@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Для ИИ.md",
+                "file": "INDEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Для ИИ"
+              "title": "INDEX"
             }
           },
           {
@@ -232,11 +232,11 @@
   },
   "active": "626bafdf13b3d2a8",
   "lastOpenFiles": [
+    "Для ИИ.md",
     "Разное.md",
     "syuzhet/fabula/fabula_yadro.md",
     "INDEX.md",
     "mysli_vslukh.md",
-    "Для ИИ.md",
     "mir/kultura/traditsii.md",
     "mir/kultura/mir_simvoly.md",
     "syuzhet/voprosy_parkovka.md",
