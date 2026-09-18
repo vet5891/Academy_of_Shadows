@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inquisitor/00_system/start_here.md",
-                "mode": "preview",
+                "file": "Inquisitor/10_state/inquisitor_state.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "start_here"
+              "title": "inquisitor_state"
             }
           },
           {
@@ -174,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inquisitor/00_system/start_here.md",
+            "file": "Inquisitor/10_state/inquisitor_state.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -232,8 +232,10 @@
   },
   "active": "626bafdf13b3d2a8",
   "lastOpenFiles": [
-    "Inquisitor/INDEX_INQUISITOR.md",
     "Inquisitor/00_system/start_here.md",
+    "Inquisitor/10_state/inquisitor_state.md",
+    "Inquisitor/10_state",
+    "Inquisitor/INDEX_INQUISITOR.md",
     "Inquisitor/40_characters/secretary.md",
     "Inquisitor/40_characters/inquisitor.md",
     "Inquisitor/40_characters/README.md",
@@ -258,7 +260,6 @@
     "Inquisitor/20_plots/case_001/01_synopsis.md",
     "Inquisitor/20_plots/case_001/00_fabula.md",
     "Inquisitor/20_plots/case_001",
-    "Inquisitor/20_plots",
     "Что еще сделать.md",
     "Главы черновик/Глава 00Х Карцер.md",
     "Главы черновик/Глава 02 партия — привоз.md",
@@ -267,7 +268,6 @@
     "mir/religiya/mir_religiya.md",
     "Главы черновик/Глава 01 Угроза Браччо.md",
     "Идеи.md",
-    "Inquisitor/00_system/inquisitor_state.md",
     "test.canvas"
   ]
 }

@@ -26,7 +26,7 @@
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/instruction.md
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/rules.md
 https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_system/lore_local.md
-https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/10_state/inquisitor_state.md
+https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/Inquisitor/00_state/inquisitor_state.md
 ```
 
 **Правило:** ссылки писать **полностью**. Система **не собирает** из частей.
