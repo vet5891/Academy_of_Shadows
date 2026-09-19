@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "syuzhet/fabula/Мысли о фабуле.md",
+                "file": "Игра академия/chronicle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мысли о фабуле"
+              "title": "chronicle"
             }
           },
           {
@@ -232,21 +232,21 @@
   },
   "active": "626bafdf13b3d2a8",
   "lastOpenFiles": [
+    "Игра академия/inmates.md",
+    "Игра академия/staff.md",
+    "Игра академия/core.md",
+    "Игра академия/Цикл работы.md",
+    "syuzhet/fabula/Мысли о фабуле.md",
     "structure.md",
     "mysli_vslukh.md",
     "Для ИИ.md",
-    "syuzhet/fabula/Мысли о фабуле.md",
     "mir/geografiya/goroda/montevyo.md",
     "Lekcii.md",
     "academy_state.md",
     "syuzhet/fabula/fabula_yadro.md",
     "Главы черновик/Глава 02 партия — привоз.md",
     "Идеи.md",
-    "Игра академия/Цикл работы.md",
-    "Игра академия/staff.md",
-    "Игра академия/inmates.md",
     "Игра академия/chronicle.md",
-    "Игра академия/core.md",
     "Игра академия/prompt.md",
     "Игра академия/ИИ.md",
     "personazhi/vospitannitsy/dikaya.md",
