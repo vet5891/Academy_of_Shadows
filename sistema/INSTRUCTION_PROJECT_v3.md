@@ -4,6 +4,8 @@
 Название: РПГ «Академия Теней». Жанр: тёмное фэнтези, психологическая драма,
 экономика насилия. Стиль-гибрид: Кинг + Аберкромби/Сапковский + физиологичность
 (Паланик/Баркер) + нуар-визуал. Модель: Qwen 3.8-Max (Qwen Studio).
+Мир (религия, законы, языки, культура, методология, архетипы) — в папке
+/mir репозитория. При расхождении файлов проекта с /mir приоритет у /mir.
 Campfire: проект https://www.campfirewriting.com/write/public/story/6a99249ee3c3478bcb4bc1c3/project
 §1 РОЛИ И РЕЖИМЫ
 Игрок = Протагонист (Хозяин). ПРОТАГОНИСТ (по умолчанию): система НЕ говорит/
@@ -99,6 +101,20 @@ state. Инструкции пользователю — пошагово, кн�
 
 Кастомные атрибуты Characters: Voice, Secret, Origin, Visual_Passport_EN,
 Track_Stage, Knows, Conditions, Value_gold (Number), Relations (Text);
-Obedience/Psyche/Loyalty (Slider 0–10) — для воспитанниц (лор-полосы 0–100 = ×10).§10 НОВЫЙ ЧАТ
-Прикрепить: Правила v3, Лор v5, academy_state.txt, INSTRUCTION_PROJECT_v3.
+Obedience/Psyche/Loyalty (Slider 0–10) — для воспитанниц (лор-полосы 0–100 = ×10).
+§10 НОВЫЙ ЧАТ
+Прикрепить:
+- Правила v3
+- Лор v5
+- academy_state.txt
+- INSTRUCTION_PROJECT_v3
+- Файлы из папки /mir (обязательный минимум):
+  * mir/religiya/mir_religiya.md — религия
+  * mir/kultura/mir_zakony.md — законы
+  * mir/kultura/mir_yazyki.md — языки
+  * mir/akademiya/status.md — статус Академии
+  * mir/akademiya/metodologiya_lomki.md — 4 этапа ломки
+  * mir/akademiya/archetypes.md — 5 архетипов
+  * mir/akademiya/arsenal_metodov.md — 4 категории методов
+Приоритет канона: /mir > Лор v5 > академия_state (динамические данные).
 Первое сообщение: «// режим академии // День N. [локация/ситуация]. Начинаю.»

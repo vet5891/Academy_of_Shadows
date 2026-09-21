@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Для ИИ.md",
+                "file": "sistema/lor_v5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Для ИИ"
+              "title": "lor_v5"
             }
           }
         ]
@@ -175,14 +175,17 @@
   },
   "active": "c57f7542294538a8",
   "lastOpenFiles": [
+    "sistema/INSTRUCTION_PROJECT_v3.md",
+    "sistema/lor_v5.md",
+    "Вопросы для проверки мира..md",
+    "academy_state.md",
     "mir/kultura/mir_zakony.md",
+    "mir/religiya/mir_religiya.md",
+    "Для ИИ.md",
     "mir/akademiya/metodologiya_lomki.md",
     "INDEX.md",
     "mir/akademiya/arsenal_metodov.md",
     "mir/akademiya/archetypes.md",
-    "Для ИИ.md",
-    "mir/religiya/mir_religiya.md",
-    "Вопросы для проверки мира..md",
     "mir/akademiya/status.md",
     "Что еще сделать.md",
     "Игра академия/inmates.md",
@@ -193,14 +196,11 @@
     "Игра академия/Цикл работы.md",
     "Игра академия/core.md",
     "Игра академия/prompt.md",
-    "academy_state.md",
     "syuzhet/fabula/fabula_kniga1.md",
     "syuzhet/voprosy_parkovka.md",
     "mir/encyclopedia/poshagovue_instrukcii.md",
     "mir/encyclopedia/model_transformacii_kompleksnaya.md",
     "7.md",
-    "mir/encyclopedia/metodologiya_lomki.md",
-    "mir/politika/gertsogstvo.md",
     "mir/encyclopedia",
     "Игра академия",
     "Inquisitor/10_state",
