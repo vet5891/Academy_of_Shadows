@@ -56,7 +56,7 @@
 
 **Методология:**
 - [Методология ломки (4 этапа)](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/metodologiya_lomki.md)
-- [Психотипы и соответствие трекам](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/psihotipy.md)
+- [Психотипы и соответствие трекам](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/archetypes.md)
 - [Арсенал методов (4 категории)](https://raw.githubusercontent.com/vet5891/Academy_of_Shadows/main/mir/akademiya/arsenal_metodov.md)
 
 ### 3.3. Религия

@@ -198,7 +198,7 @@
 ## 6. СВЯЗИ
 
 - `mir/akademiya/metodologiya_lomki.md` — 4 этапа + методы по трекам.
-- `mir/akademiya/psihotipy.md` — 5 архетипов + распределение по трекам.
+- `mir/akademiya/archetypes.md` — 5 архетипов + распределение по трекам.
 - `mir/religiya/mir_religiya.md` — Культ Матери (что делают жрецы, что — Академия).
 - `academy_state.txt` — текущее состояние воспитанниц (этап, трек, шкалы, archetype, track_candidate).
 - `syuzhet/fabula/fabula_kniga1.md` — фабула (где методы применяются к партии).
