@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personazhi/vospitannitsy/nina.md",
+                "file": "Для ИИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nina"
+              "title": "Для ИИ"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "personazhi/vospitannitsy/nina.md",
+            "file": "Для ИИ.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -175,9 +175,11 @@
   },
   "active": "c57f7542294538a8",
   "lastOpenFiles": [
-    "academy_state.md",
-    "personazhi/vospitannitsy/nina.md",
+    "syuzhet/fabula/fabula_kniga1.md",
+    "syuzhet/fabula/fabula_yadro.md",
     "Для ИИ.md",
+    "personazhi/vospitannitsy/nina.md",
+    "academy_state.md",
     "personazhi/antagonists/brachcho.md",
     "personazhi/vospitannitsy/izotta.md",
     "personazhi/vospitannitsy/dikaya.md",
@@ -195,13 +197,11 @@
     "personazhi/personal/master.md",
     "Вопросы для проверки мира..md",
     "syuzhet/fabula/Мысли о фабуле.md",
-    "syuzhet/fabula/fabula_kniga1.md",
     "Lekcii.md",
     "sistema/INSTRUCTION_PROJECT_v3.md",
     "INDEX.md",
     "mir/campfire",
     "Игра академия/Сюжетные нити.md",
-    "Игра академия/chronicle.md",
     "mir/encyclopedia",
     "Игра академия",
     "Inquisitor/10_state",
