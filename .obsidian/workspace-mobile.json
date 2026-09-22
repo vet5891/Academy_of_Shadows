@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игра академия/Сюжетные нити.md",
+                "file": "academy_state.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сюжетные нити"
+              "title": "academy_state"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Игра академия/inmates.md",
+            "file": "academy_state.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -175,32 +175,33 @@
   },
   "active": "c57f7542294538a8",
   "lastOpenFiles": [
-    "Игра академия/chronicle.md",
-    "Игра академия/inmates.md",
-    "Игра академия/staff.md",
-    "Игра академия/core.md",
-    "Игра академия/Цикл работы.md",
-    "Игра академия/Сюжетные нити.md",
-    "Игра академия/methods.md",
-    "Игра академия/prompt.md",
-    "Игра академия/Девочки.md",
-    "mir/encyclopedia/sootvetstvie_psihotipov_trecam.md",
-    "mir/encyclopedia/model_transformacii_kompleksnaya.md",
-    "sistema/lor_v5.md",
-    "sistema/INSTRUCTION_PROJECT_v3.md",
-    "Вопросы для проверки мира..md",
+    "personazhi/vospitannitsy/nina.md",
     "academy_state.md",
-    "mir/kultura/mir_zakony.md",
-    "mir/religiya/mir_religiya.md",
     "Для ИИ.md",
-    "mir/akademiya/metodologiya_lomki.md",
-    "INDEX.md",
-    "mir/akademiya/arsenal_metodov.md",
-    "mir/akademiya/archetypes.md",
-    "mir/akademiya/status.md",
-    "Что еще сделать.md",
+    "personazhi/antagonists/brachcho.md",
+    "personazhi/vospitannitsy/izotta.md",
+    "personazhi/vospitannitsy/dikaya.md",
+    "personazhi/vospitannitsy/shram.md",
+    "personazhi/vospitannitsy/korova.md",
+    "personazhi/personal/okhrana.md",
+    "personazhi/personal/molchun.md",
+    "personazhi/personal/edward.md",
+    "personazhi/personal/ilza.md",
+    "personazhi/personal/teodor.md",
+    "personazhi/personal/albin.md",
+    "Разное.md",
+    "personazhi/personal/vesta.md",
+    "personazhi/personal/gerhard.md",
+    "personazhi/personal/master.md",
+    "Вопросы для проверки мира..md",
+    "syuzhet/fabula/Мысли о фабуле.md",
     "syuzhet/fabula/fabula_kniga1.md",
-    "syuzhet/voprosy_parkovka.md",
+    "Lekcii.md",
+    "sistema/INSTRUCTION_PROJECT_v3.md",
+    "INDEX.md",
+    "mir/campfire",
+    "Игра академия/Сюжетные нити.md",
+    "Игра академия/chronicle.md",
     "mir/encyclopedia",
     "Игра академия",
     "Inquisitor/10_state",
@@ -210,7 +211,6 @@
     "Inquisitor/30_manuscript",
     "Inquisitor/20_plots/case_002",
     "Inquisitor/20_plots/case_001/chapters/ch_002",
-    "Inquisitor/20_plots/case_001/chapters/ch_001",
     "test.canvas"
   ]
 }
