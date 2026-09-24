@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Для ИИ.md",
+                "file": "timeline/meso_kniga1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Для ИИ"
+              "title": "meso_kniga1"
             }
           },
           {
@@ -164,7 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Для ИИ.md",
+            "file": "timeline/meso_kniga1.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -189,9 +189,16 @@
   },
   "active": "c57f7542294538a8",
   "lastOpenFiles": [
+    "timeline/macro.md",
+    "timeline/meso_kniga1.md",
+    "syuzhet/voprosy_parkovka.md",
+    "timeline",
+    "syuzhet/Без названия",
+    "syuzhet/full_history_kniga1.md",
+    "mir/WORKLOG.md",
+    "Для ИИ.md",
     "Лекции/Фабула основное..md",
     "Лекции/Фабула лекция.md",
-    "Для ИИ.md",
     "Лекции/Шпаргалка писателя.md",
     "Лекции/Основное..md",
     "Разное.md",
@@ -212,19 +219,12 @@
     "personazhi/vospitannitsy/dikaya.md",
     "personazhi/vospitannitsy/shram.md",
     "personazhi/vospitannitsy/korova.md",
-    "personazhi/personal/okhrana.md",
-    "personazhi/personal/molchun.md",
-    "personazhi/personal/edward.md",
-    "personazhi/personal/ilza.md",
-    "personazhi/personal/teodor.md",
     "mir/campfire",
     "mir/encyclopedia",
     "Игра академия",
     "Inquisitor/10_state",
     "Inquisitor/40_characters",
     "Inquisitor/30_manuscript/book_02",
-    "Inquisitor/30_manuscript/book_01",
-    "Inquisitor/30_manuscript",
     "test.canvas"
   ]
 }
