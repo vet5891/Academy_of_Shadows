@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/Шпаргалка писателя.md",
+                "file": "Для ИИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шпаргалка писателя"
+              "title": "Для ИИ"
             }
           },
           {
@@ -164,7 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Лекции/Шпаргалка писателя.md",
+            "file": "Для ИИ.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -189,14 +189,14 @@
   },
   "active": "c57f7542294538a8",
   "lastOpenFiles": [
-    "Лекции/Основное..md",
-    "Лекции/Шпаргалка писателя.md",
-    "Лекции/Фабула лекция.md",
     "Лекции/Фабула основное..md",
+    "Лекции/Фабула лекция.md",
+    "Для ИИ.md",
+    "Лекции/Шпаргалка писателя.md",
+    "Лекции/Основное..md",
     "Разное.md",
     "Лекции",
     "syuzhet/fabula/fabula_kniga1.md",
-    "Для ИИ.md",
     "syuzhet/fabula/Мысли о фабуле.md",
     "mir/politika/trikastella.md",
     "mir/encyclopedia/Без названия",
