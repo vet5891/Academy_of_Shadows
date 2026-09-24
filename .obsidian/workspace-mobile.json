@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personazhi/vospitannitsy/korova.md",
+                "file": "personazhi/visual_passport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "korova"
+              "title": "visual_passport"
             }
           },
           {
@@ -164,7 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "personazhi/vospitannitsy/korova.md",
+            "file": "personazhi/visual_passport.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -190,6 +190,8 @@
   "active": "c57f7542294538a8",
   "lastOpenFiles": [
     "mir/WORKLOG.md",
+    "personazhi/visual_passport.md",
+    "personazhi/vospitannitsy/korova.md",
     "timeline/meso_kniga1.md",
     "timeline/macro.md",
     "syuzhet/voprosy_parkovka.md",
@@ -217,8 +219,6 @@
     "personazhi/antagonists/brachcho.md",
     "personazhi/vospitannitsy/izotta.md",
     "personazhi/vospitannitsy/dikaya.md",
-    "personazhi/vospitannitsy/shram.md",
-    "personazhi/vospitannitsy/korova.md",
     "mir/campfire",
     "mir/encyclopedia",
     "Игра академия",
