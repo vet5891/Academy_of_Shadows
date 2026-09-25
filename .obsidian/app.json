@@ -23,7 +23,8 @@
     "editor:configure-toolbar",
     "command-palette:open",
     "editor:move-caret-right",
-    "editor:move-caret-left"
+    "editor:move-caret-left",
+    "editor:insert-horizontal-rule"
   ],
   "spellcheck": false,
   "tabSize": 6,
