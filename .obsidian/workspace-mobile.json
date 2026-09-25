@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rukopis/book_01/glava_002.md",
+                "file": "academy_state.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "glava_002"
+              "title": "academy_state"
             }
           },
           {
@@ -206,7 +206,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "rukopis/book_01/kniga.md",
+            "file": "academy_state.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -231,14 +231,14 @@
   },
   "active": "c57f7542294538a8",
   "lastOpenFiles": [
-    "rukopis/book_01/kniga.md",
+    "mir/WORKLOG.md",
     "rukopis/book_01/glava_002.md",
+    "rukopis/book_01/kniga.md",
     "Главы черновик/Глава 02 партия — привоз.md",
     "personazhi/antagonists/brachcho.md",
     "personazhi/personal/molchun.md",
     "personazhi/personal/gerhard.md",
     "syuzhet/fabula/fabula_kniga1.md",
-    "mir/WORKLOG.md",
     "Для ИИ.md",
     "rukopis/book_01/glava_001.md",
     "timeline/meso_kniga1.md",
