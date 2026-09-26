@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rukopis/book_01/glava_003.md",
+                "file": "academy_state.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "glava_003"
+              "title": "academy_state"
             }
           }
         ],
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "rukopis/book_01/glava_003.md",
+            "file": "academy_state.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -232,6 +232,8 @@
   },
   "active": "b0af0e0e19d202c0",
   "lastOpenFiles": [
+    "mir/WORKLOG.md",
+    "academy_state.md",
     "rukopis/book_01/glava_003.md",
     "rukopis/book_01/glava_003.md",
     "rukopis/book_01/kniga.md",
@@ -241,9 +243,7 @@
     "personazhi/personal/vesta.md",
     "mir/kultura/mir_sosloviya.md",
     "mir/akademiya/metodologiya_lomki.md",
-    "mir/WORKLOG.md",
     "sistema/lor_v5.md",
-    "academy_state.md",
     "rukopis/book_01/glava_002.md",
     "Главы черновик/Глава 02 партия — привоз.md",
     "personazhi/antagonists/brachcho.md",
