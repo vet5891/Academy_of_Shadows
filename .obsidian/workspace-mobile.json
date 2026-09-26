@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разное.md",
+                "file": "rukopis/book_01/glava_003.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Разное"
+              "title": "glava_003"
             }
           }
         ],
@@ -93,7 +93,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTimeReverse",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false,
             "showSearch": false,
             "searchQuery": ""
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Главы черновик/Глава 03 Партия - осмотр..md",
+            "file": "rukopis/book_01/glava_003.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -232,20 +232,23 @@
   },
   "active": "b0af0e0e19d202c0",
   "lastOpenFiles": [
+    "rukopis/book_01/glava_003.md",
+    "rukopis/book_01/glava_003.md",
+    "rukopis/book_01/kniga.md",
     "Главы черновик/Глава 03 Партия - осмотр..md",
-    "mir/kultura/mir_sosloviya.md",
+    "syuzhet/fabula/fabula_kniga1.md",
     "Разное.md",
+    "personazhi/personal/vesta.md",
+    "mir/kultura/mir_sosloviya.md",
     "mir/akademiya/metodologiya_lomki.md",
     "mir/WORKLOG.md",
     "sistema/lor_v5.md",
     "academy_state.md",
     "rukopis/book_01/glava_002.md",
-    "rukopis/book_01/kniga.md",
     "Главы черновик/Глава 02 партия — привоз.md",
     "personazhi/antagonists/brachcho.md",
     "personazhi/personal/molchun.md",
     "personazhi/personal/gerhard.md",
-    "syuzhet/fabula/fabula_kniga1.md",
     "Для ИИ.md",
     "rukopis/book_01/glava_001.md",
     "timeline/meso_kniga1.md",
@@ -257,9 +260,6 @@
     "Лекции/Промпт.md",
     "Главы черновик/Глава 00Х Карцер.md",
     "personazhi/prompt_illustracii.md",
-    "personazhi/visual_passport.md",
-    "personazhi/vospitannitsy/korova.md",
-    "timeline/macro.md",
     "timeline",
     "syuzhet/Без названия",
     "Лекции",
