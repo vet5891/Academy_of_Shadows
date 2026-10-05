@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разное.md",
+                "file": "mir/WORKLOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Разное"
+              "title": "WORKLOG"
             }
           },
           {
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sistema/EDITOR_PROTOCOL.md",
+            "file": "INSTRUCTION_MASTER.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -232,12 +232,17 @@
   },
   "active": "1391a8dc9704f0f8",
   "lastOpenFiles": [
+    "INSTRUCTION_MASTER.md",
+    "Главы черновик/Глава 008 Арена.md",
+    "rukopis/book_01/glava_007.md",
+    "rukopis/book_01/kniga.md",
+    "Главы черновик/Глава 007 Рысь..md",
+    "Разное.md",
     "sistema/EDITOR_PROTOCOL.md",
     "mir/WORKLOG.md",
     "sistema/pravila_v3.md",
     "sistema/lor_v5.md",
     "sistema/INSTRUCTION_PROJECT_v3.md",
-    "INSTRUCTION_MASTER.md",
     "timeline/meso_kniga1.md",
     "timeline/macro.md",
     "academy_state.md",
@@ -253,11 +258,6 @@
     "personazhi/antagonists/gvidi.md",
     "personazhi/antagonists/tommaso.md",
     "personazhi/antagonists/federgo.md",
-    "personazhi/vospitannitsy/igla.md",
-    "personazhi/vospitannitsy/shram.md",
-    "personazhi/vospitannitsy/nina.md",
-    "personazhi/vospitannitsy/blazhennaya.md",
-    "personazhi/vospitannitsy/izotta.md",
     "personazhi/vneshnie",
     "rukopis/Без названия",
     "timeline",
