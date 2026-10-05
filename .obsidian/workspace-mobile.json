@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sistema/EDITOR_PROTOCOL.md",
+                "file": "Разное.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EDITOR_PROTOCOL"
+              "title": "Разное"
             }
           },
           {
@@ -232,8 +232,8 @@
   },
   "active": "1391a8dc9704f0f8",
   "lastOpenFiles": [
-    "mir/WORKLOG.md",
     "sistema/EDITOR_PROTOCOL.md",
+    "mir/WORKLOG.md",
     "sistema/pravila_v3.md",
     "sistema/lor_v5.md",
     "sistema/INSTRUCTION_PROJECT_v3.md",
