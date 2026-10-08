@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sistema/INSTRUCTION_PROJECT_v3.md",
+                "file": "rukopis/book_01/glava_008.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INSTRUCTION_PROJECT_v3"
+              "title": "glava_008"
             }
           },
           {
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "INSTRUCTION_MASTER.md",
+            "file": "rukopis/book_01/glava_009.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -232,17 +232,24 @@
   },
   "active": "1391a8dc9704f0f8",
   "lastOpenFiles": [
-    "mir/WORKLOG.md",
-    "INSTRUCTION_MASTER.md",
+    "rukopis/book_01/glava_009.md",
     "Главы черновик/Глава 008 Арена.md",
-    "rukopis/book_01/glava_007.md",
+    "Главы черновик/Глава 009 Бой.md",
     "rukopis/book_01/kniga.md",
-    "Главы черновик/Глава 007 Рысь..md",
+    "mir/kultura/mir_imena.md",
     "Разное.md",
+    "mir/WORKLOG.md",
+    "rukopis/book_01/glava_008.md",
+    "personazhi/antagonists/federgo.md",
+    "mir/kultura/slovar_vysokiy.md",
+    "Для ИИ.md",
+    "sistema/INSTRUCTION_PROJECT_v3.md",
+    "INSTRUCTION_MASTER.md",
+    "rukopis/book_01/glava_007.md",
+    "Главы черновик/Глава 007 Рысь..md",
     "sistema/EDITOR_PROTOCOL.md",
     "sistema/pravila_v3.md",
     "sistema/lor_v5.md",
-    "sistema/INSTRUCTION_PROJECT_v3.md",
     "timeline/meso_kniga1.md",
     "timeline/macro.md",
     "academy_state.md",
@@ -251,13 +258,6 @@
     "syuzhet/syuzhet_kniga1.md",
     "syuzhet/full_history_kniga1.md",
     "personazhi/visual_passport.md",
-    "personazhi/vneshnie/braccho.md",
-    "personazhi/vneshnie/tessa.md",
-    "personazhi/vneshnie/kosoy_rayid.md",
-    "personazhi/antagonists/knyaz.md",
-    "personazhi/antagonists/gvidi.md",
-    "personazhi/antagonists/tommaso.md",
-    "personazhi/antagonists/federgo.md",
     "personazhi/vneshnie",
     "rukopis/Без названия",
     "timeline",
