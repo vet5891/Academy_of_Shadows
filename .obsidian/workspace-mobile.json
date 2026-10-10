@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rukopis/book_01/glava_008.md",
+                "file": "Главы черновик/Глава 010 Ужин.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "glava_008"
+              "title": "Глава 010 Ужин"
             }
           },
           {
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "rukopis/book_01/glava_009.md",
+            "file": "Главы черновик/Глава 010 Ужин.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -232,14 +232,22 @@
   },
   "active": "1391a8dc9704f0f8",
   "lastOpenFiles": [
-    "rukopis/book_01/glava_009.md",
+    "rukopis/book_01/glava_008.md",
     "Главы черновик/Глава 008 Арена.md",
-    "Главы черновик/Глава 009 Бой.md",
-    "rukopis/book_01/kniga.md",
-    "mir/kultura/mir_imena.md",
+    "Главы черновик/Глава 010 Ужин.md",
     "Разное.md",
     "mir/WORKLOG.md",
-    "rukopis/book_01/glava_008.md",
+    "rukopis/book_01/glava_010.md",
+    "rukopis/book_01/kniga.md",
+    "Главы черновик/Глава 009 Бой.md",
+    "rukopis/book_01/glava_005.md",
+    "rukopis/book_01/glava_004.md",
+    "rukopis/book_01/glava_002.md",
+    "rukopis/book_01/glava_003.md",
+    "rukopis/book_01/glava_001.md",
+    "mir/kultura/mir_kalendar.md",
+    "rukopis/book_01/glava_009.md",
+    "mir/kultura/mir_imena.md",
     "personazhi/antagonists/federgo.md",
     "mir/kultura/slovar_vysokiy.md",
     "Для ИИ.md",
@@ -250,14 +258,6 @@
     "sistema/EDITOR_PROTOCOL.md",
     "sistema/pravila_v3.md",
     "sistema/lor_v5.md",
-    "timeline/meso_kniga1.md",
-    "timeline/macro.md",
-    "academy_state.md",
-    "syuzhet/fabula/fabula_kniga1.md",
-    "syuzhet/voprosy_parkovka.md",
-    "syuzhet/syuzhet_kniga1.md",
-    "syuzhet/full_history_kniga1.md",
-    "personazhi/visual_passport.md",
     "personazhi/vneshnie",
     "rukopis/Без названия",
     "timeline",
