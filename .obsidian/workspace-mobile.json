@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Главы черновик/Глава 010 Ужин.md",
-                "mode": "source",
+                "file": "Разное.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глава 010 Ужин"
+              "title": "Разное"
             }
           },
           {
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Главы черновик/Глава 010 Ужин.md",
+            "file": "mir/WORKLOG.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -232,32 +232,32 @@
   },
   "active": "1391a8dc9704f0f8",
   "lastOpenFiles": [
-    "rukopis/book_01/glava_008.md",
-    "Главы черновик/Глава 008 Арена.md",
-    "Главы черновик/Глава 010 Ужин.md",
-    "Разное.md",
-    "mir/WORKLOG.md",
-    "rukopis/book_01/glava_010.md",
     "rukopis/book_01/kniga.md",
-    "Главы черновик/Глава 009 Бой.md",
+    "rukopis/book_01/glava_010.md",
+    "rukopis/book_01/glava_009.md",
+    "rukopis/book_01/glava_008.md",
+    "rukopis/book_01/glava_007.md",
+    "rukopis/book_01/glava_006.md",
     "rukopis/book_01/glava_005.md",
     "rukopis/book_01/glava_004.md",
-    "rukopis/book_01/glava_002.md",
     "rukopis/book_01/glava_003.md",
+    "rukopis/book_01/glava_002.md",
     "rukopis/book_01/glava_001.md",
+    "Главы черновик/Глава 01 Угроза Браччо.md",
+    "Снежинка.md",
+    "Разное.md",
+    "mir/WORKLOG.md",
+    "Вопросы для проверки мира..md",
+    "personazhi/visual_passport.md",
+    "Главы черновик/Глава 010 Ужин.md",
+    "Главы черновик/Глава 008 Арена.md",
+    "Главы черновик/Глава 009 Бой.md",
     "mir/kultura/mir_kalendar.md",
-    "rukopis/book_01/glava_009.md",
     "mir/kultura/mir_imena.md",
     "personazhi/antagonists/federgo.md",
     "mir/kultura/slovar_vysokiy.md",
     "Для ИИ.md",
     "sistema/INSTRUCTION_PROJECT_v3.md",
-    "INSTRUCTION_MASTER.md",
-    "rukopis/book_01/glava_007.md",
-    "Главы черновик/Глава 007 Рысь..md",
-    "sistema/EDITOR_PROTOCOL.md",
-    "sistema/pravila_v3.md",
-    "sistema/lor_v5.md",
     "personazhi/vneshnie",
     "rukopis/Без названия",
     "timeline",
