@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разное.md",
-                "mode": "preview",
+                "file": "АКАДЕМИЯ метод снежинки./Пять шагов.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Разное"
+              "title": "Пять шагов"
             }
           },
           {
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "mir/WORKLOG.md",
+            "file": "АКАДЕМИЯ метод снежинки./Пять шагов.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -232,7 +232,14 @@
   },
   "active": "1391a8dc9704f0f8",
   "lastOpenFiles": [
+    "АКАДЕМИЯ метод снежинки./Описание метода.md",
+    "АКАДЕМИЯ метод снежинки./Пять шагов.md",
+    "slug.md",
+    "АКАДЕМИЯ метод снежинки.",
     "rukopis/book_01/kniga.md",
+    "Разное.md",
+    "Снежинка.md",
+    "personazhi/visual_passport.md",
     "rukopis/book_01/glava_010.md",
     "rukopis/book_01/glava_009.md",
     "rukopis/book_01/glava_008.md",
@@ -244,20 +251,14 @@
     "rukopis/book_01/glava_002.md",
     "rukopis/book_01/glava_001.md",
     "Главы черновик/Глава 01 Угроза Браччо.md",
-    "Снежинка.md",
-    "Разное.md",
     "mir/WORKLOG.md",
     "Вопросы для проверки мира..md",
-    "personazhi/visual_passport.md",
     "Главы черновик/Глава 010 Ужин.md",
     "Главы черновик/Глава 008 Арена.md",
     "Главы черновик/Глава 009 Бой.md",
     "mir/kultura/mir_kalendar.md",
     "mir/kultura/mir_imena.md",
     "personazhi/antagonists/federgo.md",
-    "mir/kultura/slovar_vysokiy.md",
-    "Для ИИ.md",
-    "sistema/INSTRUCTION_PROJECT_v3.md",
     "personazhi/vneshnie",
     "rukopis/Без названия",
     "timeline",
@@ -267,7 +268,6 @@
     "mir/campfire",
     "mir/encyclopedia",
     "Игра академия",
-    "Inquisitor/10_state",
     "test.canvas"
   ]
 }
