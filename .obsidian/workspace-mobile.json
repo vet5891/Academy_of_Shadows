@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "АКАДЕМИЯ метод снежинки./Пять шагов.md",
+                "file": "АКАДЕМИЯ метод снежинки./Для ИИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пять шагов"
+              "title": "Для ИИ"
             }
           },
           {
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "АКАДЕМИЯ метод снежинки./Пять шагов.md",
+            "file": "АКАДЕМИЯ метод снежинки./Для ИИ.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -232,13 +232,15 @@
   },
   "active": "1391a8dc9704f0f8",
   "lastOpenFiles": [
+    "АКАДЕМИЯ метод снежинки./Снежинка 1.md",
+    "АКАДЕМИЯ метод снежинки./Для ИИ.md",
     "mir/kultura/mir_imena.md",
-    "АКАДЕМИЯ метод снежинки./Пять шагов.md",
     "АКАДЕМИЯ метод снежинки./Описание метода.md",
+    "АКАДЕМИЯ метод снежинки./Пять шагов.md",
+    "Разное.md",
     "slug.md",
     "АКАДЕМИЯ метод снежинки.",
     "rukopis/book_01/kniga.md",
-    "Разное.md",
     "Снежинка.md",
     "personazhi/visual_passport.md",
     "rukopis/book_01/glava_010.md",
@@ -257,8 +259,6 @@
     "Главы черновик/Глава 010 Ужин.md",
     "Главы черновик/Глава 008 Арена.md",
     "Главы черновик/Глава 009 Бой.md",
-    "mir/kultura/mir_kalendar.md",
-    "personazhi/antagonists/federgo.md",
     "personazhi/vneshnie",
     "rukopis/Без названия",
     "timeline",
