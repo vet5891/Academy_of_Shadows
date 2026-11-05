@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "АКАДЕМИЯ метод снежинки./Мир и сеттинг.md",
+                "file": "ПАНСИОНАТ/Промпт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мир и сеттинг"
+              "title": "Промпт"
             }
           },
           {
@@ -93,7 +93,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false,
             "showSearch": false,
             "searchQuery": ""
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "АКАДЕМИЯ метод снежинки./Мир и сеттинг.md",
+            "file": "ПАНСИОНАТ/Промпт.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -232,15 +232,21 @@
   },
   "active": "1391a8dc9704f0f8",
   "lastOpenFiles": [
+    "ПАНСИОНАТ/Память.md",
+    "ПАНСИОНАТ/Промпт.md",
+    "Разное.md",
+    "ПАНСИОНАТ",
+    "Игра академия/methods.md",
+    "Игра академия/prompt.md",
+    "Игра академия/Девочки.md",
+    "АКАДЕМИЯ метод снежинки./Для ИИ.md",
+    "Игра/Промпт.md",
+    "АКАДЕМИЯ метод снежинки./Еще персонажи.md",
+    "АКАДЕМИЯ метод снежинки./Мир и сеттинг.md",
     "АКАДЕМИЯ метод снежинки./Снежинка 2 — расширенные досье персонажей. Шаг 7..md",
     "АКАДЕМИЯ метод снежинки./Снежинка 1 — Основное. Шаги 1-3.md",
-    "АКАДЕМИЯ метод снежинки./Для ИИ.md",
-    "АКАДЕМИЯ метод снежинки./Еще персонажи.md",
-    "Разное.md",
     "mir/kultura/mir_imena.md",
     "АКАДЕМИЯ метод снежинки./Вопросы для карточек.md",
-    "АКАДЕМИЯ метод снежинки./Мир и сеттинг.md",
-    "Игра/Промпт.md",
     "Игра/memory.md",
     "personazhi/personal/vesta.md",
     "Игра",
@@ -254,11 +260,6 @@
     "personazhi/antagonists/tommaso.md",
     "personazhi/antagonists/knyaz.md",
     "АКАДЕМИЯ метод снежинки./Структура файлов.md",
-    "personazhi/vospitannitsy/izotta.md",
-    "personazhi/antagonists/federgo.md",
-    "АКАДЕМИЯ метод снежинки./Блаженная.md",
-    "АКАДЕМИЯ метод снежинки./Дикая.md",
-    "slug.md",
     "АКАДЕМИЯ метод снежинки.",
     "personazhi/vneshnie",
     "rukopis/Без названия",
@@ -267,7 +268,6 @@
     "Лекции",
     "mir/encyclopedia/Без названия",
     "mir/campfire",
-    "mir/encyclopedia",
     "test.canvas"
   ]
 }
