@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ПАНСИОНАТ/Промпт.md",
+                "file": "Разное.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Промпт"
+              "title": "Разное"
             }
           },
           {
@@ -93,7 +93,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byCreatedTime",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false,
             "showSearch": false,
             "searchQuery": ""
@@ -207,7 +207,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ПАНСИОНАТ/Промпт.md",
+            "file": "АКАДЕМИЯ метод снежинки./Для ИИ.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -232,42 +232,42 @@
   },
   "active": "1391a8dc9704f0f8",
   "lastOpenFiles": [
-    "ПАНСИОНАТ/Память.md",
-    "ПАНСИОНАТ/Промпт.md",
+    "Для ИИ.md",
     "Разное.md",
+    "ПАНСИОНАТ/Промпт.md",
+    "АКАДЕМИЯ метод снежинки./Для ИИ.md",
+    "АКАДЕМИЯ метод снежинки./СПРАВОЧНИК.md",
+    "АКАДЕМИЯ метод снежинки./Снежинка 2 — расширенные досье персонажей. Шаг 7..md",
+    "АКАДЕМИЯ метод снежинки./Мир и сеттинг.md",
+    "АКАДЕМИЯ метод снежинки./Снежинка 1 — Основное. Шаги 1-3.md",
+    "АКАДЕМИЯ метод снежинки./Вопросы для карточек.md",
+    "АКАДЕМИЯ метод снежинки./Еще персонажи.md",
+    "personazhi/vospitannitsy/nina.md",
+    "personazhi/vospitannitsy/shram.md",
+    "Разработка агента",
+    "АКАДЕМИЯ метод снежинки./Промпт справочник.md",
+    "mir/geografiya/goroda/montevyo.md",
+    "mir/geografiya/goroda/trikastella.md",
+    "mir/geografiya/akademiya.md",
+    "mir/geografiya/dolina_tichcha.md",
+    "Снежинка.md",
+    "ПАНСИОНАТ/Память.md",
+    "personazhi/visual_passport.md",
+    "ИГРА НА ЛОГИКУ/Промпт.md",
+    "ИГРА НА ЛОГИКУ",
     "ПАНСИОНАТ",
     "Игра академия/methods.md",
     "Игра академия/prompt.md",
     "Игра академия/Девочки.md",
-    "АКАДЕМИЯ метод снежинки./Для ИИ.md",
     "Игра/Промпт.md",
-    "АКАДЕМИЯ метод снежинки./Еще персонажи.md",
-    "АКАДЕМИЯ метод снежинки./Мир и сеттинг.md",
-    "АКАДЕМИЯ метод снежинки./Снежинка 2 — расширенные досье персонажей. Шаг 7..md",
-    "АКАДЕМИЯ метод снежинки./Снежинка 1 — Основное. Шаги 1-3.md",
     "mir/kultura/mir_imena.md",
-    "АКАДЕМИЯ метод снежинки./Вопросы для карточек.md",
-    "Игра/memory.md",
-    "personazhi/personal/vesta.md",
     "Игра",
-    "АКАДЕМИЯ метод снежинки./Описание метода.md",
-    "АКАДЕМИЯ метод снежинки./Пять шагов.md",
-    "personazhi/personal/teodor.md",
-    "rukopis/book_01/glava_005.md",
-    "rukopis/book_01/glava_001.md",
-    "mysli_vslukh.md",
-    "personazhi/personal/gerhard.md",
-    "personazhi/antagonists/tommaso.md",
-    "personazhi/antagonists/knyaz.md",
-    "АКАДЕМИЯ метод снежинки./Структура файлов.md",
     "АКАДЕМИЯ метод снежинки.",
     "personazhi/vneshnie",
     "rukopis/Без названия",
     "timeline",
     "syuzhet/Без названия",
     "Лекции",
-    "mir/encyclopedia/Без названия",
-    "mir/campfire",
     "test.canvas"
   ]
 }
